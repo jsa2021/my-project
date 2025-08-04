@@ -16,7 +16,7 @@ const styles = StyleSheet.create({
     iconContainer:{
         justifyContent:'center',
         alignItems:'center',
-        backgroundColor:colors.darkGray,
+        backgroundColor:colors.primary,
         width:48,
         height:48,
         borderRadius:32
