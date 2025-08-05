@@ -55,8 +55,8 @@ Instalación y puesta a punto
 
 1. Clonar el repositorio:
 
-git clone https://github.com/usuario/proyecto-clinica.git
-cd proyecto-clinica
+git clone https://github.com/jsa2021/my-project.git
+cd my-project
 
 2. Instalar dependencias:
 
